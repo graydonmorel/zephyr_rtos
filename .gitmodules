@@ -1,0 +1,6 @@
+[submodule "zephyr_tu"]
+	path = zephyr_tu
+	url = https://github.com/Trackunit/griffin-vendor-zephyrtu.git
+[submodule "zephyr_base"]
+	path = zephyr_base
+	url = https://github.com/Trackunit/griffin-vendor-zephyrtufork.git
